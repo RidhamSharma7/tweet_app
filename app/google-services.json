@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101063719059",
+    "project_id": "tweet-7991c",
+    "storage_bucket": "tweet-7991c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101063719059:android:fe69b955c4def5f7887566",
+        "android_client_info": {
+          "package_name": "com.example.tweet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMt9hRrVSe1xZWwVxfZfHuBCMrHrz5Mbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
